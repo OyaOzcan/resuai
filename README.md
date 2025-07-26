@@ -26,6 +26,3 @@ This project is a full-stack web platform designed to assist job seekers and rec
   - AI Integration: OpenAI GPT-3.5 API
 
 ---
-
-## 📂 Project Structure
-
